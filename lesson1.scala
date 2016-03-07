@@ -1,3 +1,6 @@
+/** Examples based on the following tutorial video */
+/** https://www.youtube.com/watch?v=PFK6gsnlV5E&index=1&list=PLexnxRP3h0cpOULRJSyGVBBjMWKOfZRvn */
+
 /** Simple map example */
 val x=sc.parallelize(Array("a","b","c"));
 val y = x.map(z=>(z,1));
