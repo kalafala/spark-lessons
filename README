@@ -1,0 +1,5 @@
+$SPARK/bin/spark-shell -i file.scala
+
+To quit spark-shell:  :q
+
+
